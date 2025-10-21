@@ -3,7 +3,7 @@
 
 
 **Contact for api :** [https://t.me/tikown](https://t.me/tikown)
-## telegram: @alethino
+## telegram: @tikown_adm
 
 ## tiktok API
 
